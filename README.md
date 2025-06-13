@@ -1,4 +1,4 @@
-# TracFac
+# TracFac - Student-Faculty Tracking and Communication System
 **Project SRS & Interface images at:** [TracFac](https://tracfac.netlify.app/)
 
 TracFac is a comprehensive web-based platform designed to facilitate direct communication between faculty and students, eliminating the need for external communication channels. The system provides a centralized platform for academic interactions, program management, and student-faculty relationships within educational institutions.
@@ -47,7 +47,7 @@ Before running the project, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ramgopal-m/TracFac.git
+   git clone https://github.com/Nagur-Meera/TracFac.git
    cd tracfac
    ```
 
@@ -349,3 +349,39 @@ http://localhost:3000/api-docs
    - XSS protection
    - CSRF protection
    - Rate limiting
+
+## Team Members
+
+### Geetesh K (AP22110010062)
+**Role:** Project Manager and Technical Writer  
+**Responsibilities:**
+- Managing the project
+- Writing the SRS
+- Overseeing technical aspects
+- Documentation and coordination
+
+### Nagur Meeravali Shaik (AP22110010061)
+**Role:** Lead Developer  
+**Responsibilities:**
+- System architecture design
+- Core functionality implementation
+- Backend development
+- Technical leadership
+
+### Mansoor Muzahid Shaik (AP22110010019)
+**Role:** Frontend Developer and QA Engineer  
+**Responsibilities:**
+- Frontend development
+- Quality assurance
+- System testing
+- Bug tracking and resolution
+
+### Ram Gopal M (AP22110010063)
+**Role:** Frontend Developer and UI/UX Designer  
+**Responsibilities:**
+- User interface design
+- User experience optimization
+- Frontend development
+- Visual design implementation
+
+`
